@@ -10,6 +10,14 @@ function Info() {
                   Splunk Engineer
                 </p>
             </div>
+            <button>
+                <img src="" alt="small email icon" />
+                Website
+            </button>
+            <button>
+                <img src="" alt="small LinkedIn icon" />
+                LinkedIn
+            </button>
         </div>
     </>
   )
