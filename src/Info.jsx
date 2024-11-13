@@ -1,5 +1,4 @@
-import { useState } from 'react'
-import ''
+import React from 'react'
 
 function Info() {
   return (
