@@ -11,11 +11,11 @@ function Info() {
                 </p>
             </div>
             <button>
-                <img src="" alt="small email icon" />
+                <img src="./src/assets/email-svgrepo-com.svg" alt="small email icon" />
                 Website
             </button>
             <button>
-                <img src="" alt="small LinkedIn icon" />
+                <img src="./src/assets/linkedin-svgrepo-com.svg" alt="small LinkedIn icon" />
                 LinkedIn
             </button>
         </div>
