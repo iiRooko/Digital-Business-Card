@@ -3,6 +3,7 @@ import './App.css'
 import Info from './Info.jsx'
 import About from './About.jsx'
 import Interest from './Interest.jsx'
+import Footer from './Footer.jsx'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <Info />
         <About />
         <Interest />
+        <Footer />
     </>
   )
 }
