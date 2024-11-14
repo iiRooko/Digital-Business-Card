@@ -4,8 +4,11 @@ function Info() {
   return (
     <>
         <div>
-            <img className="info-picture" src="" alt="picture of a handsome young man...me!" />
+            <img className="info-picture" src="./src/assets/me.jpeg" alt="picture of a handsome young man...me!" />
             <div className="info-text">
+                <p>
+                  Cody Moskall
+                </p>
                 <p>
                   Splunk Engineer
                 </p>
