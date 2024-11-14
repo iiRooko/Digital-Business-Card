@@ -21,10 +21,12 @@ function Info() {
                 Email
             </button>
             </a>
+            <a href="https://www.linkedin.com/in/cody-moskall-3418941a6">
             <button>
                 <img src="./src/assets/linkedin-svgrepo-com.svg" alt="small LinkedIn icon" width="20px" />
                 LinkedIn
             </button>
+            </a>
         </div>
     </>
   )
