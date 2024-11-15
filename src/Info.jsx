@@ -3,7 +3,7 @@ import React from 'react'
 function Info() {
   return (
     <>
-        <div>
+        <div className="info-container">
             <img className="info-picture" src="./src/assets/me.jpeg" alt="picture of a handsome young man...me!" />
             <div className="info-text">
                 <p className="info-name">
