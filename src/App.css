@@ -12,9 +12,23 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: #1A1B21;
 }
 
 .info-picture {
     border-top-left-radius: 5%;
     border-top-right-radius: 5%;
 }
+
+.info-name {
+    color: white;
+}
+
+.info-job-title {
+    color: #F3BF99;
+}
+
+.info-email {
+    background-color: #D1D5DB;
+}
+

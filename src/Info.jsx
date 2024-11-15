@@ -14,13 +14,13 @@ function Info() {
                 </p>
             </div>
             <a href="mailto:businesscard.tattered076@dralias.com">
-            <button>
+            <button className="info-email">
                 <img src="./src/assets/email-svgrepo-com.svg" alt="small email icon" width="20px" />
                 Email
             </button>
             </a>
             <a href="https://www.linkedin.com/in/cody-moskall-3418941a6">
-            <button>
+            <button className="info-linkedin">
                 <img src="./src/assets/linkedin-svgrepo-com.svg" alt="small LinkedIn icon" width="20px" />
                 LinkedIn
             </button>
