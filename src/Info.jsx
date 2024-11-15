@@ -14,17 +14,17 @@ function Info() {
                 </p>
             </div>
             <div className="info-email">
-            <a href="mailto:businesscard.tattered076@dralias.com">
-                <img src="./src/assets/email-svgrepo-com.svg" alt="small email icon" width="20px" />
-                Email
-            </a>
+                <a href="mailto:businesscard.tattered076@dralias.com">
+                    <img src="./src/assets/email-svgrepo-com.svg" alt="small email icon" width="20px" />
+                    Email
+                </a>
             </div>
-            <a href="https://www.linkedin.com/in/cody-moskall-3418941a6">
-            <button className="info-linkedin">
-                <img src="./src/assets/linkedin-svgrepo-com.svg" alt="small LinkedIn icon" width="20px" />
-                LinkedIn
-            </button>
-            </a>
+            <div className="info-linkedin">
+                <a href="https://www.linkedin.com/in/cody-moskall-3418941a6">
+                    <img src="./src/assets/linkedin-svgrepo-com.svg" alt="small LinkedIn icon" width="20px" />
+                    LinkedIn
+                </a>
+            </div>
         </div>
     </>
   )

@@ -37,3 +37,17 @@
     color: inherit;
 }
 
+.info-linkedin > a, .info-linkedin > img {
+    text-decoration: none;
+    color:  white;
+
+}
+
+.info-linkedin {
+    background-color: #5093E2;
+}
+
+.info-linkedin img {
+filter: invert(100%) sepia(0%) saturate(7427%) 
+hue-rotate(23deg) brightness(118%) contrast(118%);
+}
