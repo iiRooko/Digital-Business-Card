@@ -30,6 +30,7 @@
 
 .info-email {
     background-color: white;
+    border-radius: 10%;
 }
 
 .info-email > a {
@@ -40,11 +41,11 @@
 .info-linkedin > a, .info-linkedin > img {
     text-decoration: none;
     color:  white;
-
 }
 
 .info-linkedin {
     background-color: #5093E2;
+    border-radius: 10%;
 }
 
 .info-linkedin img {
