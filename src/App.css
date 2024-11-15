@@ -29,6 +29,11 @@
 }
 
 .info-email {
-    background-color: #D1D5DB;
+    background-color: white;
+}
+
+.info-email > a {
+    text-decoration: none;
+    color: inherit;
 }
 
