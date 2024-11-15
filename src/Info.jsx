@@ -6,17 +6,15 @@ function Info() {
         <div>
             <img className="info-picture" src="./src/assets/me.jpeg" alt="picture of a handsome young man...me!" />
             <div className="info-text">
-                <p>
+                <p className="info-name">
                   Cody Moskall
                 </p>
-                <p>
+                <p className="info-job-title">
                   Splunk Engineer
                 </p>
             </div>
             <a href="mailto:businesscard.tattered076@dralias.com">
             <button>
-
-  
                 <img src="./src/assets/email-svgrepo-com.svg" alt="small email icon" width="20px" />
                 Email
             </button>
