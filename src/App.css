@@ -27,11 +27,18 @@
 
 .info-name {
     color: white;
-font-size: 1.56rem;
+    font-size: 1.56rem;
 }
 
 .info-job-title {
     color: #F3BF99;
+    font-size: 1rem;
+}
+
+.info-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .info-email {
