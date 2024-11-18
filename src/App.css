@@ -91,3 +91,23 @@
     display: flex;
     gap: 20px;
 }
+
+.about-container {
+    display: flex;
+    flex-direction: column;
+    
+    background-color: #1A1B21;
+    max-width: 320px;
+}
+
+.about-header {
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    margin-left: 35px;
+}
+
+.about-info {
+    color: #dcdcdc;
+    margin-left: 35px;
+}
