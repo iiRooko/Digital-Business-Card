@@ -37,15 +37,13 @@
 .info-name {
     color: white;
     font-size: 1.56rem;
-    
     font-weight: bold;
 }
 
 .info-job-title {
     color: #F3BF99;
-    font-size: 1rem;
     margin-top: 6px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .info-text {
