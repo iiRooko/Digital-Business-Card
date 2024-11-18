@@ -81,7 +81,7 @@
     gap: 8px;
 }
 
-.info-linkedin  {
+.info-linkedin {
     background-color: #5093E2;
     border-radius: 10%;
     height: 35px;
@@ -127,6 +127,8 @@
 .footer-container {
     background-color: #161619;
     height: 64px;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
 }
 
 .footer-github {
