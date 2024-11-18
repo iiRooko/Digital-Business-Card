@@ -2,14 +2,14 @@ import React from 'react'
 
 function About() {
     return (
-        <>
-            <h1>
+        <div className="about-container">
+            <h1 className="about-header">
                 About
             </h1>
-            <p>
+            <p className="about-info">
                 a dude doing things, yeah....
             </p>
-        </>
+        </div>
     )
 }
 
