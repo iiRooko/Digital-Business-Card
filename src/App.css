@@ -44,21 +44,39 @@
 .info-email {
     background-color: white;
     border-radius: 10%;
+    height: 35px;
+    width: 115px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .info-email > a {
     text-decoration: none;
     color: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
 }
 
 .info-linkedin > a, .info-linkedin > img {
     text-decoration: none;
     color:  white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
 }
 
 .info-linkedin  {
     background-color: #5093E2;
     border-radius: 10%;
+    height: 35px;
+    width: 115px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .info-linkedin img {
